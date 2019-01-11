@@ -1,0 +1,2 @@
+#removes access to indexes of folders
+Options -Indexes
